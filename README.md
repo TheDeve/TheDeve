@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheDeve software engineer with almost 7 years of experience developing apps most common in .net and react
-- 👀 I’m interested in working for big companies and maybe move on country 
-- 🌱 I’m currently learning react
+- 👀 I’m interested in CiberSecurity and Build Secure Applications.
+- 🌱 I’m currently learning CEH
 - 📫 How to reach me ... tecko_80@hotmail.com
 
 <!---
